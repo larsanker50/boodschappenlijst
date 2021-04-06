@@ -22,18 +22,15 @@ td, th {
     padding: 5px;
 }
 
-.totalCost {
-    text-align: right;
-}
-
-.productTotalCost {
-    text-align: right;
+#totalCost {
+    text-align: left;
+    column-span: 3;
 }
 
 .cost {
     text-align: right;
 }
 
-.totalCost {
-    text-align: left;
+.tdTotal {
+    text-align: right;
 }
